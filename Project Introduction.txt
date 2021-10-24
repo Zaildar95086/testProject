@@ -1,0 +1,3 @@
+The core goal of our website is to improve information flow by providing them meaning of abbreviations as well as sentences that can help them to understand their proper usage in different fields. Mostly this application will consider social media phrases. 
+
+Our website is to achieve is to increase brand awareness in two ways: educating the users and attracting more traffic.  
